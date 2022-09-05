@@ -1,0 +1,33 @@
+p {
+
+  color: Gold;
+
+}
+
+h1 {
+
+color: Gold;
+}
+
+* {
+
+background-color: purple;
+
+}
+
+img {
+width:700px;
+height:500px;
+
+ }
+
+
+#table-1{
+padding-left: 750px;
+margin-top: -500px;
+
+}
+
+#content {
+  padding-top: 475px
+}
